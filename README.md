@@ -1,4 +1,4 @@
-## Planet Finder
+## Exoplanet Transit Finder
 
 Use the transit method to try and find an exoplanet.
 
